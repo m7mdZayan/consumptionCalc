@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1510233405 source:c:\users\zayan\desktop\1014 consumption\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+
